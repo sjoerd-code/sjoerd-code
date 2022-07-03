@@ -1,6 +1,3 @@
-## General info:
-My name is Sjoerd, i was born in 2004 and i live in The Netherlands.
-
 ## Education:
 I am currently studying game development at the [Grafisch Lyceum Utrecht](https://www.glu.nl/).
 
