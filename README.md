@@ -9,7 +9,7 @@ I worked for [Trixel Creative](https://www.trixelcreative.com/) for a few months
 ## Skills:
 - C# language
 - Unity game engine
-- GLSL shaders
+- Shaders
 - Game design
 
 ## Contact:
