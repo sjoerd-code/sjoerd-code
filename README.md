@@ -8,7 +8,6 @@ I worked for [Trixel Creative](https://www.trixelcreative.com/) for a few months
 
 ## Skills:
 - C# language
-- SFML Library
 - Unity game engine
 - Game design
 
